@@ -1,4 +1,4 @@
-# 🌍 Countries GDP Web Scraping & Data Analysis
+# 🌍 Global GDP Data Web Scraping
 ### IBM Data Engineering Specialization – Portfolio Project
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahahmadd.countries-gdp-web-scraping)
